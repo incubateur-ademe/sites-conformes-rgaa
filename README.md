@@ -31,7 +31,7 @@ ignorés).
 ## Installation
 
 ```bash
-uv add --editable ../../packages/sites-conformes-rgaa
+uv add sites-conformes-rgaa
 ```
 
 Ajouter à `INSTALLED_APPS` (pas de contrainte d'ordre - ce package ne
